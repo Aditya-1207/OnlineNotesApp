@@ -1,5 +1,5 @@
 # OnlineNotesApp
-Backend Implementation of RESTful CRUD API for Notes making using Spring Boot, MySQL, JPA nad Hibernate
+Backend Implementation of RESTful CRUD API for Notes making using Spring Boot, MySQL, JPA and Hibernate
 
 # REST CRUD APIs
 
